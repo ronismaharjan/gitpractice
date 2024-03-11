@@ -1,0 +1,7 @@
+git init : to initialize the git folder
+git add file__name / . to add all the uncommited files directily use (.)
+git commit -m "your message for commit " 
+git stash : to send the staged file to another place where it will be stored until it is called.
+git stash pop : to call the stash files
+git stash clear : to clear the stashed files completely and it cannot be recovered.
+git stash list : to see the stashed file list.
